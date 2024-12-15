@@ -13,7 +13,7 @@ Edit the ssmtp.conf file:
 sudo nano /etc/ssmtp/ssmtp.conf
 ```
 
-```markdown
+
 ```bash
 #
 # Config file for sSMTP sendmail
