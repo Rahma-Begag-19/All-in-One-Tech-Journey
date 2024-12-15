@@ -13,7 +13,9 @@ Edit the ssmtp.conf file:
 sudo nano /etc/ssmtp/ssmtp.conf
 ```
 
-`#
+```markdown
+```bash
+#
 # Config file for sSMTP sendmail
 #
 # The person who gets all mail for userids < 1000
@@ -37,7 +39,8 @@ hostname=yourhost
 # Are users allowed to set their own From: address?
 # YES - Allow the user to specify their own From: address
 # NO - Use the system generated From: address
-FromLineOverride=YES`
+FromLineOverride=YES
+```
 
 ### Sending a Test Email
 To test the configuration, use the following command:
