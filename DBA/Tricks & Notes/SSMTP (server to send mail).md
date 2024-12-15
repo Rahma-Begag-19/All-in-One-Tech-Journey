@@ -1,4 +1,4 @@
-#### Install ssmtp
+### Install ssmtp
 To install ssmtp, run the following command:
 ```bash
 sudo apt update
