@@ -20,4 +20,3 @@ This folder contains resources, scripts, and notes related to my **Database Admi
 - [Building an extension with Trusted Language Extensions for PostgreSQL](https://www.youtube.com/watch?v=UJQQdSGK5ZY)
 - [5 Secrets for making PostgreSQL run BLAZING FAST. How to improve database performance](https://www.youtube.com/watch?v=YON9PliOYFk)
 - [Encrypted Columns in PostgreSQL - Secrets Management with Supabase Vault](https://www.youtube.com/watch?v=QHLPNDrdN2w)
-- 
