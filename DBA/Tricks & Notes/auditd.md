@@ -21,8 +21,8 @@ Add the following line to audit the pg_hba.conf file:
 - /path/to/pg_hba.conf: Replace this with the full path to your pg_hba.conf file (e.g., /var/lib/postgresql/15/main/pg_hba.conf for PostgreSQL 15).
 - -p wa: This monitors write (w) and attribute (a) changes.
 - -k pg_hba_changes: This is a custom key to easily filter audit logs.<br>
-Save and close the file.
 
+Save and close the file.
 ### 3. Restart auditd
 Reload the rules by restarting the auditd service:
 ```bash
