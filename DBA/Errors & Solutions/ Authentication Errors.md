@@ -7,3 +7,4 @@
 **Solution:**
 - Verify the auth_file path and ensure it includes the correct username and password hash.
 - Ensure pg_hba.conf allows the connection.
+- alter the user with the same password, add it to the userlist.txt and then restart pgbouncer service.
