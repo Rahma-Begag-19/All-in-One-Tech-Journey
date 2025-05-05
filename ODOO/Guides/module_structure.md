@@ -39,7 +39,7 @@ Odoo modules are self-contained components that can be added to any Odoo install
 ---
 
 ## 🛠️ Example Diagram
-[! Odoo module structure](./images/odoo%20module%20structure.jpg)
+[! Odoo module structure](../images/odoo%20module%20structure.jpg)
 
 ---
 
