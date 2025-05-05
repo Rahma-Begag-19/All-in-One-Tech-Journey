@@ -31,7 +31,6 @@ Odoo modules are self-contained components that can be added to any Odoo install
 | `populate/`       | Optional | Python scripts to generate demo/test data dynamically for Odoo. |
 | `migrations/`     | Optional | Database migration scripts for upgrading or downgrading module versions. |
 | `demo/`           | Optional | Contains XML files with demo data used during installation to populate the database with example data. |
-| `locale/`         | Optional | Contains `.po` files for language translations. |
 
 ---
 
