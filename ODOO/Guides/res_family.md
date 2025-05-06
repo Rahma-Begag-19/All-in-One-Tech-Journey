@@ -104,6 +104,11 @@ We'll talk about the following models:
 
 * Used in multi-branch architecture (like multi-company)
 * Not official in standard Odoo but widely used in larger systems
+---
+
+## 🛠️ Example Diagram
+[! Res models](../images/res%20family.jpg)
+
 
 ---
 
