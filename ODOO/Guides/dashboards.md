@@ -48,7 +48,9 @@ Tables display data from Odoo models using the `lists` section and `ODOO.LIST` f
    ```
    - Use `=ODOO.LIST(list_id, row_number, column_name)` to fetch data.
    - Apply `styles` for alternating row colors.
-![Table](../images/table.png)
+
+     
+   - ![Table](../images/table.png)
 
 ## 🥧How to Create a Pie Chart
 Pie charts visualize grouped data (e.g., product counts by category).
@@ -81,7 +83,9 @@ Pie charts visualize grouped data (e.g., product counts by category).
 2. **Tips**:
    - Use a numeric `measure` for meaningful insights.
    - Set `legendPosition` to `right` or `top` for clarity.
-![Pie chart](../images/pie.png)
+
+     
+   - ![Pie chart](../images/pie.png)
 
 ## 📊How to Create a Bar Chart
 Bar charts display aggregated data (e.g., commissions by category).
@@ -114,7 +118,9 @@ Bar charts display aggregated data (e.g., commissions by category).
 2. **Tips**:
    - Ensure `measure` is a valid numeric field.
    - Adjust `width` and `height` for visibility.
-![Bar chart](../images/bar.png)
+
+     
+   - ![Bar chart](../images/bar.png)
 
 ## 🔄Common Mistakes I Made (So You Don’t Have To )
   - ❌ Using non-numeric fields as measure — charts won’t render!
