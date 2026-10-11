@@ -1,0 +1,54 @@
+# ==============================
+# JetBrains IDEs (PyCharm, IntelliJ)
+# ==============================
+.idea/
+*.iml
+
+# ==============================
+# Python
+# ==============================
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Testing and linting
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# ==============================
+# Secrets and environment files
+# ==============================
+.env
+.env.*
+!.env.example
+
+# Private keys and certificates
+*.pem
+*.key
+
+# ==============================
+# Logs and temporary files
+# ==============================
+*.log
+tmp/
+temp/
+
+# ==============================
+# Linux / Windows / macOS
+# ==============================
+.DS_Store
+Thumbs.db
+*~
+*.swp
+*.swo
